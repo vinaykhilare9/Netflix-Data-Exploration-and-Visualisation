@@ -37,3 +37,35 @@ Listed_in: Genre
 Description: The summary description
 
 
+## Solution:
+
+## Business Insights:
+
+1. TV shows mostly have season1 and season2
+
+2. There are more number of movies than TV shows on Netflix
+   
+3. In India International Movies, Dramas, and Comedies are the most popular genre
+   
+4. The United States produces the most number of Movies and TV shows
+   
+5. In the United States Drama, comedies, and documentaries are a popular genre
+    
+6. The US, UK, and India are popular content-creator nations on Netflix
+    
+7. The largest count of Netflix content is made with a “TV-MA” rating followed by "TV-14"
+
+## Recommendations:
+
+1. Netflix can add more TV shows now, as the latest trend is showing TV shows are getting popular.
+   
+2. Netflix should add TV shows having 1 or 2 seasons as they are more in number in data
+ 
+3. Netflix can add more movies having popular actors and directors
+ 
+4. Netflix can add more content from international movies, dramas, and comedies as they are the most popular genre
+
+5. Netflix should add more content that is popular in countries like the UK, France, Japan, and South Korea to increase business
+    
+
+
