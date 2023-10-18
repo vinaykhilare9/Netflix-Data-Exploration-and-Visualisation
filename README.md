@@ -39,7 +39,7 @@ Description: The summary description
 
 ## Solution:
 
-## Business Insights:
+### Business Insights:
 
 1. TV shows mostly have season1 and season2
 
@@ -55,7 +55,7 @@ Description: The summary description
     
 7. The largest count of Netflix content is made with a “TV-MA” rating followed by "TV-14"
 
-## Recommendations:
+### Recommendations:
 
 1. Netflix can add more TV shows now, as the latest trend is showing TV shows are getting popular.
    
