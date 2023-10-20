@@ -49,7 +49,7 @@ Description: The summary description
    
 4. The United States produces the most number of Movies and TV shows
    
-5. In the United States Drama, comedies, and documentaries are a popular genre
+5. In the United States Drama, comedies, and documentaries are popular genre
     
 6. The US, UK, and India are popular content-creator nations on Netflix
     
