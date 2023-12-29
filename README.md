@@ -45,7 +45,7 @@ Description: The summary description
 
 2. There are more number of movies than TV shows on Netflix
    
-3. In India International Movies, Dramas, and Comedies are the most popular genre
+3. In India international Movies, Dramas, and Comedies are the most popular genre
    
 4. The United States produces the most number of Movies and TV shows
    
